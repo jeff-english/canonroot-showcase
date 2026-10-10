@@ -1,0 +1,34 @@
+{
+  "_notice": "ILLUSTRATIVE DOCUMENTATION ONLY. Manually authored. Not a live response, verification record, or the CanonRoot API schema.",
+  "demo_only": true,
+  "reader_question": "How does Romans 9 connect descent and promise?",
+  "illustrative_stages": [
+    {
+      "stage": "answer",
+      "claim": "Paul distinguishes physical ancestry from participation in the promise.",
+      "references_for_reader": [
+        "Romans 9:6-8"
+      ],
+      "verification": "not_run_demo"
+    },
+    {
+      "stage": "challenge",
+      "claim": "One alternative emphasizes covenant history and the corporate roles of Israel's ancestors.",
+      "references_for_reader": [
+        "Romans 9:6-13",
+        "Genesis 25:23",
+        "Malachi 1:2-4"
+      ],
+      "verification": "not_run_demo"
+    },
+    {
+      "stage": "response",
+      "claim": "A complete reading must also examine Paul's questions about justice and mercy.",
+      "references_for_reader": [
+        "Romans 9:14-24"
+      ],
+      "verification": "not_run_demo"
+    }
+  ],
+  "security_note": "No tokens, credentials, private prompts, raw generation transcripts, or proprietary evidence packets are present."
+}
